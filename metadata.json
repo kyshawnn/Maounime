@@ -1,0 +1,6 @@
+{
+  "name": "Anime Stream",
+  "description": "Nonton streaming anime subtitle Indonesia update tercepat dan lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
